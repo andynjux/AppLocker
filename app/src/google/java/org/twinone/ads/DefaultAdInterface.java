@@ -1,6 +1,4 @@
-package org.twinone.ads;
-
-import org.twinone.ads.BaseAdDetails;
+package org.swan.ads;
 
 public class DefaultAdInterface extends BaseAdDetails {
 

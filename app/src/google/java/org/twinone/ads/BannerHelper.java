@@ -1,4 +1,4 @@
-package org.twinone.ads;
+package org.swan.ads;
 
 import android.content.Context;
 import android.util.Log;
@@ -11,7 +11,7 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 
-import org.twinone.locker.Constants;
+import org.swan.locker.Constants;
 
 public class BannerHelper {
 

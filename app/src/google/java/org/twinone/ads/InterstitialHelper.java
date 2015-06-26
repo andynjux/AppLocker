@@ -1,4 +1,4 @@
-package org.twinone.ads;
+package org.swan.ads;
 
 import android.content.Context;
 import android.util.Log;
